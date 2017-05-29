@@ -1,4 +1,4 @@
-# Visual Studio Code Config - Spotify UI
+# Visual Studio Code Setup - Spotify UI
 After changing from Atom to VS Code, I really missed the UI and UX of my [Spotify theme](https://github.com/joseqmatias/spotify-ui). So I decided to bring the same user experience to VS Code.
 
 ## Installation
@@ -11,7 +11,7 @@ Installation is fairly easy. Just follow these steps:
 
     #####  For Windows users
     1. Go to *C:\Program Files (x86)\Microsoft VS Code\resources\app\out\vs\workbench\electron-browser\bootstrap*
-    2. Open `index.html` with Administrator priviledges.
+    2. Open `index.html` with Administrator privileges.
 
     ##### For macOS users
     1. Right-click on VS Code application
