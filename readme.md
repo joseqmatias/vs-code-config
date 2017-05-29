@@ -20,7 +20,7 @@ Installation is fairly easy. Just follow these steps:
     4. Open `index.html`
 
 
-    After this, add ```<link rel="stylesheet" href="file:///<your_path>/vsc-spotify-ui.min.css">``` to <head> in `index.html`. Don't forget to replace <your_path> with the path where you saved the file.
+    After this, add ```<link rel="stylesheet" href="file:///<your_path>/vscode-spotify.min.css">``` to <head> in `index.html`. Don't forget to replace <your_path> with the path where you saved the file.
 
 5. Restart VS Code
 
