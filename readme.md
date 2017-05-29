@@ -26,6 +26,6 @@ Installation is fairly easy. Just follow these steps:
 
 > Note: If a message shows saying your VS Code is currupted, click "Never Show Again".
 
-### Suggestions
+## Suggestions
 + In order to have the best UX possible, [One Dark Vivid](https://marketplace.visualstudio.com/items?itemName=kkozee.theme-one-dark-vivid) theme is recommended.
 + Editor font is Menlo.
