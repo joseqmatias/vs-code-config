@@ -6,7 +6,7 @@ Installation is fairly easy. Just follow these steps:
 
 1. Copy `settings.json` and add to your current settings file. (Make sure you copy/replace **workbench.colorCustomizations**. Other settings are not mandatory.)
 2. Download and install Circular font.
-3. Download `vsc-spotify-ui.min.css`
+3. Download `vscode-spotify.min.css`
 4. Apply styles.
 
     #####  For Windows users
@@ -15,8 +15,8 @@ Installation is fairly easy. Just follow these steps:
 
     ##### For macOS users
     1. Right-click on VS Code application
-    2. Show package contents
-    3. Go to resources\app\out\vs\workbench\electron-browser\bootstrap
+    2. Show Package Contents
+    3. Go to *Contents\Resources\app\out\vs\workbench\electron-browser\bootstrap*
     4. Open `index.html`
 
 
